@@ -57,4 +57,13 @@
             </plugin>
         </plugins>
     </build>
+
+    <profiles>
+        <profile>
+            <id>sonar</id>
+            <properties>
+                <sonar.host.url>http://sonarqube:9000</sonar.host.url>
+            </properties>
+        </profile>
+    </profiles>
 </project>
