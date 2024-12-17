@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>calculator-project</artifactId>
+    <artifactId>test Jenkins</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <name>Calculator le test pour Jenkins</name>
