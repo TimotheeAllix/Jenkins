@@ -65,6 +65,8 @@
             <id>sonar</id>
             <properties>
                 <sonar.host.url>http://172.19.0.4:9000</sonar.host.url>
+                <sonar.projectKey>test-Jenkins</sonar.projectKey>
+                <sonar.projectName>test Jenkins</sonar.projectName>
             </properties>
         </profile>
     </profiles>
